@@ -7,7 +7,7 @@
 This project focuses on performing **end-to-end data analysis using SQL** on a retail dataset.
 The goal is to simulate real-world business scenarios by solving **manager-driven requirements** and generating actionable insights.
 
-
+---
 
 ## 🗂️ Database Schema
 
@@ -20,7 +20,7 @@ The project consists of the following tables:
 
 📊 Total Records: **1000+ sales transactions**
 
-
+---
 
 ## ⚙️ Project Workflow
 
@@ -34,7 +34,7 @@ The project consists of the following tables:
   * Average Order Value (AOV)
   * Quantity Sold
 
-
+---
 
 ### 2️⃣ Data Cleaning
 
@@ -45,7 +45,7 @@ The project consists of the following tables:
 * Created cleaned dataset for accurate analysis
 * Calculated **net revenue (amount - discount)**
 
-
+---
 
 ### 3️⃣ Filtering & Conditional Analysis
 
@@ -60,7 +60,7 @@ The project consists of the following tables:
   * Store/category filters
   * Date conditions
 
-
+---
 
 ### 4️⃣ Aggregation & Grouping
 
@@ -75,7 +75,7 @@ The project consists of the following tables:
   * Customer-wise spending
   * Daily & monthly sales
 
-
+---
 
 ### 5️⃣ Customer Segmentation (CASE WHEN)
 
@@ -88,7 +88,7 @@ The project consists of the following tables:
   * Sales buckets
   * Store performance tiers
 
-
+---
 
 ### 6️⃣ Joins (Multi-Table Analysis)
 
@@ -102,7 +102,7 @@ The project consists of the following tables:
   * Cross-category purchases
   * Store-wise customer count
 
-
+---
 
 ### 7️⃣ Window Functions (Advanced Analytics)
 
@@ -119,9 +119,9 @@ The project consists of the following tables:
   * Sales growth analysis
   * Moving averages
 
+---
 
-
- 8️⃣ NTILE (Customer Segmentation)
+### 8️⃣ NTILE (Customer Segmentation)
 
 * Divided customers into segments:
 
@@ -130,9 +130,9 @@ The project consists of the following tables:
   * Bottom customers
 * Created **marketing-ready customer groups**
 
+---
 
-
- 9️⃣ Time-Series Analysis
+### 9️⃣ Time-Series Analysis
 
 * Used date functions:
 
@@ -144,9 +144,9 @@ The project consists of the following tables:
   * Sales growth over time
   * Recent vs historical performance
 
+---
 
-
- 📈 Key Insights
+## 📈 Key Insights
 
 * Identified **top-performing stores and categories**
 * Analyzed **customer behavior and spending patterns**
@@ -154,9 +154,9 @@ The project consists of the following tables:
 * Tracked **sales trends and growth patterns**
 * Created **customer segments for business decisions**
 
+---
 
-
- 🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 * SQL Query Writing
 * Data Cleaning & Transformation
@@ -165,7 +165,7 @@ The project consists of the following tables:
 * Data Aggregation & Segmentation
 * Advanced SQL (Window Functions)
 
-
+---
 
 ## 🚀 Key Takeaway
 
@@ -177,11 +177,12 @@ This project demonstrates how SQL can be used not just for querying data, but fo
 
 ## 🛠️ Tools Used
 
-* SQL (Oracle SQL)
+* SQL (Oracle SQL / ANSI SQL)
 
 ---
 
-
 💡 *This project is part of my continuous learning journey in Data Analytics.*
+
+---
 
 
