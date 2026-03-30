@@ -177,7 +177,7 @@ This project demonstrates how SQL can be used not just for querying data, but fo
 
 ## 🛠️ Tools Used
 
-* SQL (Oracle SQL / ANSI SQL)
+* SQL (Oracle SQL)
 
 ---
 
