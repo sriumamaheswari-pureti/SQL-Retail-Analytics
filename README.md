@@ -1,5 +1,3 @@
-
-
 # 🛒 SQL Retail Analytics Mini Project
 
 ## 📌 Project Overview
@@ -181,8 +179,11 @@ This project demonstrates how SQL can be used not just for querying data, but fo
 
 ---
 
-💡 *This project is part of my continuous learning journey in Data Analytics.*
+## 👩‍💻 Project Author
+
+**Uma Maheswari**  
+*Aspiring Data Analyst*
 
 ---
 
-
+💡 *This project is part of my continuous learning journey in Data Analytics.*
