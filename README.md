@@ -165,6 +165,13 @@ The project consists of the following tables:
 
 ---
 
+## 🔮 Future Improvements
+
+* 📊 Build interactive dashboards using Power BI or Tableau for better data visualization  
+* ⚡ Optimize SQL queries and indexing for handling large-scale datasets efficiently  
+* 🧠 Implement predictive analytics (sales forecasting & customer segmentation) using Python
+---
+
 ## 🚀 Key Takeaway
 
 This project demonstrates how SQL can be used not just for querying data, but for:
@@ -175,14 +182,14 @@ This project demonstrates how SQL can be used not just for querying data, but fo
 
 ## 🛠️ Tools Used
 
-* SQL (Oracle SQL)
+* Oracle SQL
+  
 
 ---
 
 ## 👩‍💻 Project Author
 
-**Uma Maheswari**  
-*Aspiring Data Analyst*
+**Uma Maheswari** (*Aspiring Data Analyst*)
 
 ---
 
