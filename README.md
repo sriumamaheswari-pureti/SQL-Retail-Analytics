@@ -183,6 +183,7 @@ This project demonstrates how SQL can be used not just for querying data, but fo
 ## 🛠️ Tools Used
 
 * Oracle SQL
+* PL SQL
   
 
 ---
